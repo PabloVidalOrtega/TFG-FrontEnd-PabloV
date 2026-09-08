@@ -75,7 +75,7 @@ const Pie = () => {
             <a href="https://twitter.com" target="_blank" rel="noreferrer" className="text-white hover:text-gray-500 transition-colors">
               <i className="pi pi-twitter text-xl"></i>
             </a>
-            <a href="https://github.com/PabloVidal-1DAM" target="_blank" rel="noreferrer" className="text-white hover:text-gray-500 transition-colors">
+            <a href="https://github.com/PabloVidalOrtega" target="_blank" rel="noreferrer" className="text-white hover:text-gray-500 transition-colors">
               <i className="pi pi-github text-xl"></i>
             </a>
             <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="text-white hover:text-gray-500 transition-colors">
